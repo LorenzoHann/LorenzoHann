@@ -18,32 +18,6 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
 - 🔭 I focus on <strong>Data Analytics</strong> and <strong>Machine Learning</strong>.
 - 👨‍🎤 I’m currently working on a <strong>YouTube Video Recommender System</strong>.
 
-<!--header-->
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
-
-## ℹ️ Examples workflows
-
-<!--examples-->
-```yaml
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
-
-```
-<!--/examples-->
-
 
   <tr>
     <td colspan="2" align="center">
