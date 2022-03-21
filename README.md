@@ -26,6 +26,11 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
                - ETL Pipeline and Data Warehouse Design\
                - The Secret of Second Date (Text Mining)         
 - 🌈 Fun facts: I am a prize-winning weightlifter 🏋️‍♀️ and a prize-winning singer 👨‍🎤 
+
+
+
+### Stats Overview : :cyclone:
+
        
 
 
