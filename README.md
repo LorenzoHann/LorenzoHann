@@ -1,10 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, glad you came! </span> </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey,  glad you came! </span> </h1>
 
 I'm Lorenzo Han 👧 , data gal based in New York🗽. 
-
 I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍♀️
 
+
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=I+love+crunching+numbers" height="40"/>
+
 
 <div>
 <a href="mailto: xuefan.han@columbia.edu">
@@ -14,9 +15,14 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
 
 ### Current Status Quo : 📡
 
-- 🧑‍🎓 I’m a master's student in Applied Analytics at <strong>Columbia University in the City of New York</strong>.
-- 🔭 I focus on <strong>Data Analytics</strong> and <strong>Machine Learning</strong>.
-- 👨‍🎤 I’m currently working on a <strong>YouTube Video Recommender System</strong>.
+- 🥷 I’m a master's student in Applied Analytics at <strong>Columbia University in the City of New York</strong>.
+- 👩‍🔬 I focus on <strong>Data Analytics</strong> and <strong>Machine Learning</strong>.
+- 👩‍🚀 I’m currently working on many exciting projects including
+        - <strong>YouTube Music Video Recommender System</strong>
+        - <strong>ETL Pipeline and Data warehouse Design</strong>
+        - <strong>The Secret of Second Date (Text Mining)</strong>
+- 🌈 Fun facts: I am a prize-winning weightlifter 🏋️‍♀️ a prize-winning singer 👨‍🎤 
+       
 
 
 
