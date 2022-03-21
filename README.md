@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey,  glad you came! </span> </h1>
 
-I'm Lorenzo Han 👧 , data gal based in New York🗽. 
+I'm Lorenzo Han 👧 , data gal based in New York🗽.\
 I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍♀️
 
 
