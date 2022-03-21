@@ -19,7 +19,7 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
 ### Current Status Quo : 📡
 
 
-- 🥷 I’m a master's student in Applied Analytics at <strong>Columbia University</strong>.
+- 🥷 I’m a master's student at <strong>Columbia University</strong>.
 - 👩‍🔬 I focus on <strong>Data Analytics</strong> and <strong>Machine Learning</strong>.
 - 👩‍🚀 I’m currently working on some <strong>EXCITING</strong> projects including:\
                - YouTube Music Video Recommender System\
