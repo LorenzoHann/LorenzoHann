@@ -20,14 +20,11 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
 
 
 - 🥷 I’m a master's student in Applied Analytics at <strong>Columbia University</strong>.
-
 - 👩‍🔬 I focus on <strong>Data Analytics</strong> and <strong>Machine Learning</strong>.
-
 - 👩‍🚀 I’m currently working on some <strong>EXCITING</strong> projects including:\
                - YouTube Music Video Recommender System\
                - ETL Pipeline and Data Warehouse Design\
-               - The Secret of Second Date (Text Mining)
-          
+               - The Secret of Second Date (Text Mining)         
 - 🌈 Fun facts: I am a prize-winning weightlifter 🏋️‍♀️ and a prize-winning singer 👨‍🎤 
        
 
