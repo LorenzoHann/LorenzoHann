@@ -20,7 +20,7 @@ I tell stories with data and I use Python, R, and SQL to write stories. 🦹‍�
 
 
 - 🥷 I’m a master's student at <strong>Columbia University</strong>.
-- 👩‍🔬 I focus on <strong>Data Analytics</strong>,<strong>Machine Learning</strong> and <strong>Dara Engineering</strong>.
+- 👩‍🔬 I focus on <strong>Data Analytics</strong>,<strong>Machine Learning</strong> and <strong>Data Engineering</strong>.
 - 👩‍🚀 I’m currently working on some <strong>EXCITING</strong> projects including:\
                - YouTube Music Video Recommender System\
                - ETL Pipeline and Data Warehouse Design\
